@@ -24,7 +24,8 @@
   },
   "cpu": [
     "arm",
-    "arm64"
+    "arm64",
+    "x64",
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",    
